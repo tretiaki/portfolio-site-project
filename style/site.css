@@ -1,3 +1,42 @@
+h2 {
+  font-size: 96px;
+}
 h1 {
-  color: burlywood;
+  margin: 0;
+}
+.box {
+  margin-top: 150px;
+  margin-bottom: 80px;
+}
+.title {
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
+.text-about-me {
+  margin: 50px 0;
+}
+body {
+  background: linear-gradient(
+    110.5deg,
+    rgba(248, 196, 249, 0.66) 22.8%,
+    rgba(253, 122, 4, 0.15) 64.6%
+  );
+}
+.buttons {
+  color: white;
+  background: rgba(205, 98, 207, 0.66);
+  padding: 15px 30px;
+  margin: 20px;
+  border: 1px 1px 1px white;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-left: 0;
+}
+.buttons:hover {
+  color: white;
+  background: rgba(202, 48, 205, 0.66);
+  transition: all 200ms ease-in-out;
+}
+h4 {
+  font-size: 50px;
 }
