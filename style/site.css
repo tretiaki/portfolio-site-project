@@ -73,6 +73,10 @@ p {
   cursor: pointer;
   color: rgba(232, 120, 234, 0.66);
 }
+.icon:hover {
+  cursor: pointer;
+  color: rgba(202, 48, 205, 0.66);
+}
 .image-description {
   margin-top: 50px;
 }
